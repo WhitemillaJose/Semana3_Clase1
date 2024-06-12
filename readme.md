@@ -9,18 +9,19 @@
 
 ## LISTAS:
 
-<ol>
-<ul>
-<li>
+ol
+ul
+li
 
 ## MENU DE NAVEGACION: 
 
-<nav>
-<a href="inicio">Inicio</a>
+nav
+a href="inicio">Inicio /a
 
-<table>
+table>
 border="1"
 style="padding: 0.20rem"
-<tr>
-<th>
-<td>
+
+tr>
+th>
+td>
