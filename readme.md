@@ -3,7 +3,7 @@
 ## ATRIBUTOS ENLACES:
 
 1. href : Atributo obligatorio que establece la ruta. 
-2. rel= "nofollow" : Atributos para que no se agarren de tu pagina,
+2. rel= "nofollow" : Atributos para que no se agarren de tu pagina.
 3. target="_blank" : Atributo que al hacer click abre otra pestaña. 
 4. download : Atributo que realiza una descarga al enlace.
 
@@ -15,7 +15,7 @@
 
 ## MENU DE NAVEGACION: 
 
-1. nav : Define una sección destinada a enlaces de navegación
+1. nav : Define una sección destinada a enlaces de navegación.
 2. a href="inicio">Inicio /a : Define un vínculo que enlaza a otra seccion o pagina. 
 
 ## TABLAS:
